@@ -56,8 +56,8 @@ Et le format retourne par le serveur :
     dateDeleted: null
   }
  ],
- numberElements: 50,
- totalElements: 10,
+ nbPerPage: 10,
+ totalElements: 100,
  totalPages: 10,
  currentPage: 1,
 }
